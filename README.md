@@ -14,10 +14,7 @@ Go to Directory and open cmd
 *********************************************
 Run following command in sequence 
 *********************************************
-1. rename.bat
- 
-2. result.bat 
-
+1. start.bat
 *********************************************
 
 You can see the result of Ticket added and Ticket Removed as compared to earlier csv.
@@ -25,8 +22,8 @@ You can see the result of Ticket added and Ticket Removed as compared to earlier
 open result.txt
 
 **********************************************
-In TicketId.txt you will get list of all current ticket .It enables us to easily copy 
-it into Ticket migration sheet.
+In ticket.txt you will get list of all current ticket .It enables us to easily copy 
+it into Ticket migration Track sheet.
 
 **********************************************
 © 2020 GitHub, Inc.
