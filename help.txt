@@ -7,12 +7,23 @@ pip install csv-diff
 ***************************
 
 Download the Latest CSV file from migration queue and paste it into the folder.
-Go to Durectory and open cmd 
+Go to Directory and open cmd 
+
+*********************************************
+Run following command in sequence 
+*********************************************
+1. rename.bat
+ 
+2. result.bat 
 
 *********************************************
 
-rename.bat
-csv-diff old.csv new.csv --key=ID >result.txt
+You can see the result of Ticket added and Ticket Removed as compared to earlier csv.
 
+open result.txt
 
-*********************************************
+**********************************************
+In TicketId.txt you will get list of all current ticket .It enables us to easily copy 
+it into Ticket migration sheet.
+
+**********************************************
