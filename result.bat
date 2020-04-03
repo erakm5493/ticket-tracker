@@ -1,1 +1,0 @@
-csv-diff old.csv new.csv --key=ID >result.txt
